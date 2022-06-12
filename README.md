@@ -5,7 +5,7 @@
 
 Verilen dizinin insertion sort türüne göre aşamaları
 
-[22,27,16,2,18,6] -> Insertion Sort
+[22,27,16,2,18,6] -> Insertion Sort 
 
 ## Soru - 1
 Yukarı verilen dizinin sort türüne göre aşamaları.
@@ -36,7 +36,7 @@ Big-O gösterimini yazınız.
     Best case: Aradığımız sayı [2,6,16,18,22,27] olduğu gibi 2 olabilir.
 
 ## Soru - 4
-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
+Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer ?
   
     [2,6,16,18,22,27] son hali olarak baktığımız da 18 sayısı ortada olduğundan dolayı Average case kısmına girmektedir. 
 
